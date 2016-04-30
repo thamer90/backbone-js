@@ -1,0 +1,26 @@
+{
+  "name": "backbone-js",
+  "version": "1.0.0",
+  "description": "A blog roll app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamer90/backbone-js.git"
+  },
+  "author": "Thamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thamer90/backbone-js/issues"
+  },
+  "homepage": "https://github.com/thamer90/backbone-js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-less": "^1.3.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
