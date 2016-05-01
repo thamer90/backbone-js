@@ -16,7 +16,7 @@ var Blogs = Backbone.Collection.
 //instantiate two Blogs
 
 var blog1 = new Blog ({
-  author: 'Thamer',
+  author: 'Thamers',
   title: 'Thamer\'s Blog',
   url: 'http://thameralmerry.com'
 });
